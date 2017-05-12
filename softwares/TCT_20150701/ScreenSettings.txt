@@ -1,0 +1,14 @@
+Screen settings for TCT_20150701
+
+Layout: screen 80,300; window: 80,35; left -2, top 0
+
+Cursor size: small
+
+Buffer size: 50; number of buffers: 4
+
+Mode: insert
+
+Display: window
+
+Font: Lucida Console; font size: 20
+____________________________________________________
